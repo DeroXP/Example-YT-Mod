@@ -1,0 +1,30 @@
+Items: {
+	Sword: {
+		DisplayName: Sword
+		Tooltip: Sword that keeps enemies away!
+	}
+
+	Shotgun: {
+		Tooltip: One shot then kill.
+		DisplayName: Shotgun
+	}
+
+	MagicBook: {
+		DisplayName: Magic Book
+		Tooltip: Shoots magic from th grasp of your hands!
+	}
+
+	Potion: {
+		Tooltip: Drinking allows player to  have more defense, life, and heals the player!
+		DisplayName: Potion
+	}
+}
+
+Buffs: {
+	Buff: {
+		Description: Heals the player, and buffs player in multiple ways.
+		DisplayName: Buff
+	}
+}
+
+Projectiles.CustomProjectile.DisplayName: Custom Projectile
