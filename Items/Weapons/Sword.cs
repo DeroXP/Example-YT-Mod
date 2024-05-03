@@ -27,7 +27,7 @@ namespace Exam.Items.Weapons
             Item.rare = ItemRarityID.Blue;
             Item.UseSound = SoundID.Item1;
             Item.crit = 10;
-            Item.scale = 4f;
+            Item.scale = 1f;
         }
 
         public override void ModifyHitNPC(Player player, NPC target, ref NPC.HitModifiers modifiers)
